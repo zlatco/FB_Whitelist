@@ -6,7 +6,7 @@ A Host file to whitelist as little as possible for Facebook and Messenger, while
 https://github.com/zlatco/FB_Whitelist/blob/master/FB_Whitelist.txt
  
 
-# Adlists used, Beware that these two lists also block Whatsapp and Instagram !!
+# Adlists used, (Beware that these two lists also block Whatsapp and Instagram !!)
 https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
 
 https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all

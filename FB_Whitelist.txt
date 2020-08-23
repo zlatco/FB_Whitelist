@@ -27,7 +27,6 @@ web.facebook.com
 rupload.facebook.com
 edge-mqtt.facebook.com
 edge-chat.facebook.com
-graph.facebook.com
 mqtt-mini.facebook.com
 mqtt.c10r.facebook.com
 m.facebook.com

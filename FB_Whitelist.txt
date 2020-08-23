@@ -1,5 +1,5 @@
 # A Host file to whitelist as little as possible on Facebook & Messenger, while still making them usable!
-# https://github.com/zlatco/FB_Whitelist/blob/alpha/FB_Whitelist.txt
+# https://github.com/zlatco/FB_Whitelist/blob/master/FB_Whitelist.txt
 #
 # Blocklists used:
 # https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -8,7 +8,7 @@
 ########################################################
 # Updated: 23/08/2020
 # Project home page: https://github.com/zlatco/FB_Whitelist
-# Licence: https://github.com/zlatco/FB_Whitelist/blob/alpha/LICENSE
+# Licence: https://github.com/zlatco/FB_Whitelist/blob/master/LICENSE
 # Title: Zlatco Facebook Whitelist
 # Hosts contributed by Zlatco
 ########################################################

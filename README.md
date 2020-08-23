@@ -12,5 +12,3 @@ https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/faceboo
 # Use
 
 Copy all the domains in the list and paste them into Group Management > Domains and select add to Whitelist.
-
-(A simpler way to add all at one time is coming up)

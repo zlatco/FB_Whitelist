@@ -1,0 +1,53 @@
+# A Host file to whitelist as little as possible on Facebook & Messenger, while still making them usable!
+# https://github.com/zlatco/FB_Whitelist/blob/alpha/FB_Whitelist.txt
+#
+# Blocklists used:
+# https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
+# https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all
+#
+########################################################
+# Updated: 23/08/2020
+# Project home page: https://github.com/zlatco/FB_Whitelist
+# Licence: https://github.com/zlatco/FB_Whitelist/blob/alpha/LICENSE
+# Title: Zlatco Facebook Whitelist
+# Hosts contributed by Zlatco
+########################################################
+#
+star-mini.c10r.facebook.com	
+star.c10r.facebook.com	
+scontent.xx.fbcdn.net	
+external-cph2-1.xx.fbcdn.net
+video-cph2-1.xx.fbcdn.net
+messenger.com	
+connect.facebook.net
+scontent-cph2-1.xx.fbcdn.net
+edge-chat.messenger.com
+video.xx.fbcdn.net
+web.facebook.com
+rupload.facebook.com
+edge-mqtt.facebook.com
+edge-chat.facebook.com
+graph.facebook.com
+mqtt-mini.facebook.com
+mqtt.c10r.facebook.com
+m.facebook.com
+facebook.com
+static.xx.fbcdn.net
+www.facebook.com
+www.messenger.com
+media0.giphy.com
+media1.giphy.com
+media2.giphy.com
+media3.giphy.com
+media.tenor.co
+upload.messenger.com
+star.facebook.com
+external.xx.fbcdn.net
+limited-prod.giphy.map.fastly.net
+external-arn2-1.xx.fbcdn.net
+scontent-arn2-1.xx.fbcdn.net
+#
+##############################################################
+# User submitted
+##############################################################
+#

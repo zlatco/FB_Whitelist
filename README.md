@@ -11,10 +11,6 @@ https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/faceboo
 
 # Use
 
-Go to "Whitelist Management" on the Pi-hole admin page.
-Copy the domains in my list and paste to blacklist as domain one at a time.
-
-Save it by pressing "Add to Whitelist"
-
+Copy all the domains in the list and paste them into Group Management > Domains and select add to Whitelist.
 
 (A simpler way to add all at one time is coming up)

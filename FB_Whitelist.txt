@@ -1,12 +1,16 @@
 # A Host file to whitelist as little as possible on Facebook & Messenger, while still making them usable!
 # https://github.com/zlatco/FB_Whitelist/blob/master/FB_Whitelist.txt
 #
-# Blocklists used:
+# Adlists/Blocklists used:
 # https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
 # https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all
+# https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+#
+# If you use Instagram and Whatsapp, use ONLY this Adlist/Blocklist:
+# https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 #
 ########################################################
-# Updated: 23/08/2020
+# Updated: 24/08/2020
 # Project home page: https://github.com/zlatco/FB_Whitelist
 # Licence: https://github.com/zlatco/FB_Whitelist/blob/master/LICENSE
 # Title: Zlatco Facebook Whitelist
@@ -47,6 +51,6 @@ external-arn2-1.xx.fbcdn.net
 scontent-arn2-1.xx.fbcdn.net
 #
 ##############################################################
-# User submitted
+# User submitted below:
 ##############################################################
 #

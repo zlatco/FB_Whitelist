@@ -51,6 +51,8 @@ external.xx.fbcdn.net
 limited-prod.giphy.map.fastly.net
 external-arn2-1.xx.fbcdn.net
 scontent-arn2-1.xx.fbcdn.net
+cdn.fbsbx.com
+graph.facebook.com
 #
 ##############################################################
 # User submitted below:

@@ -14,6 +14,6 @@ https://github.com/zlatco/FB_Whitelist/blob/master/FB_Whitelist.txt
 # If you use Instagram and Whatsapp, use ONLY Adlist no. 3.
 
 
-# Use
+# Use:
 
 Copy all the domains in the list and paste them into Group Management > Domains and select Add to Whitelist.

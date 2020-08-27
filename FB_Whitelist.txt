@@ -11,13 +11,12 @@
 # Use:
 # Copy all the domains in the list and paste them into Group Management > Domains and select Add to Whitelist.
 #
-########################################################
-# Updated: 24/08/2020
+######################################################################
+# Updated: 27/08/2020
 # Project home page: https://github.com/zlatco/FB_Whitelist
 # Licence: https://github.com/zlatco/FB_Whitelist/blob/master/LICENSE
 # Title: Zlatco Facebook Whitelist
-# Hosts contributed by Zlatco
-########################################################
+######################################################################
 #
 star-mini.c10r.facebook.com	
 star.c10r.facebook.com	
@@ -53,6 +52,7 @@ external-arn2-1.xx.fbcdn.net
 scontent-arn2-1.xx.fbcdn.net
 cdn.fbsbx.com
 graph.facebook.com
+lm.facebook.com
 #
 ##############################################################
 # User submitted below:
